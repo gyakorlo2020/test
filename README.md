@@ -1,0 +1,2 @@
+# test
+Tanulás és gyakorlás
